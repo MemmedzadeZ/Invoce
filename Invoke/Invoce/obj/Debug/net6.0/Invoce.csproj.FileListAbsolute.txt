@@ -1,0 +1,15 @@
+C:\Users\НР\source\repos\Invoce\Invoce\bin\Debug\net6.0\Invoce.exe
+C:\Users\НР\source\repos\Invoce\Invoce\bin\Debug\net6.0\Invoce.deps.json
+C:\Users\НР\source\repos\Invoce\Invoce\bin\Debug\net6.0\Invoce.runtimeconfig.json
+C:\Users\НР\source\repos\Invoce\Invoce\bin\Debug\net6.0\Invoce.dll
+C:\Users\НР\source\repos\Invoce\Invoce\bin\Debug\net6.0\Invoce.pdb
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.csproj.AssemblyReference.cache
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.AssemblyInfoInputs.cache
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.AssemblyInfo.cs
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.csproj.CoreCompileInputs.cache
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.dll
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\refint\Invoce.dll
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.pdb
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\Invoce.genruntimeconfig.cache
+C:\Users\НР\source\repos\Invoce\Invoce\obj\Debug\net6.0\ref\Invoce.dll
